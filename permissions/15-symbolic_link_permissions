@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent and staff:_hello  
+ sudo chown -R vincent and staff:_hello  
